@@ -6,12 +6,12 @@ import { ReactComponent as InstagramIcon } from './instagram.svg';
 function Footer() {
     return (
         <footer className="main-footer">
-            App desenvolvido por BrunoTravassos durante a 2ª ed. do evento Semana DevSuperior
+            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
-                <a href="https://www.youtube.com/user/brunoscream1" target="_new">
+                <a href="https://www.youtube.com/c/DevSuperior" target="_new">
                     <YoutubeIcon />
                 </a>
-                <a href="https://www.linkedin.com/in/bruno-travassos-421a1622/" target="_new">
+                <a href="https://www.linkedin.com/in/brunoftravassos/" target="_new">
                     <LinkedinIcon />
                 </a>
                 <a href="https://www.instagram.com/travassosbruno/" target="_new">
